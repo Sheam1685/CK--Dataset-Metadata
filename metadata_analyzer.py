@@ -120,9 +120,54 @@ def get_subjects_with_all_four_emotions():
 
     print(f"Number of subjects with disgust, surprise, anger, and happiness: {len(common_subjects)}")
     print(f"Subjects with all four emotions: {common_subjects}")
+    
+
+def check_label_integrity():
+    emotion_decoder = {
+        "neutral": 0,
+        "anger": 1,
+        "contempt": 2,
+        "disgust": 3,
+        "fear": 4,
+        "happiness": 5,
+        "sadness": 6,
+        "surprise": 7,
+    }
+    
+    with open('image_metadata.json') as f:
+        data = json.load(f)
+        
+    with open("image_emotion_mapping.csv", "r") as f:
+        reader = csv.reader(f)
+        header = next(reader)  # Skip the header row
+        csv_rows = [row for row in reader]
+    
+    emotion_labels = []
+    for row in csv_rows:
+        emotion = row[1]
+        emotion_labels.append(emotion)
+    
+    index = 0
+    for key, obj in data.items():
+        csv_emotion = emotion_labels[index]
+        csv_emotion = int(csv_emotion)
+        # print(csv_emotion)
+        index += 1
+        if "ckplus_emotion" in obj:
+            json_emotion = obj["ckplus_emotion"]
+            json_emotion = emotion_decoder[json_emotion]
+            # print(json_emotion)
+            if csv_emotion != json_emotion:
+                print(f"Image: {key}, CSV emotion: {csv_emotion}, JSON emotion: {json_emotion}")
+            
+    
+        
+    
+    
 
 map_image_to_emotion()
 check_if_a_session_contains_multiple_emotions()
 map_subject_to_its_available_emotions()
 map_emotions_to_its_subjects()
 get_subjects_with_all_four_emotions()
+check_label_integrity()
