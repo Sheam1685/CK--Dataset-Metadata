@@ -5,6 +5,28 @@ import pandas as pd
 # emotion_label.csv contains the original file inherited from our seniors
 # emotion_label_copy.csv contains the proposed bug free file
 
+string_to_emotion_code_decoder = {
+    "neutral": 0,
+    "anger": 1,
+    "contempt": 2,
+    "disgust": 3,
+    "fear": 4,
+    "happiness": 5,
+    "sadness": 6,
+    "surprise": 7,
+}
+
+emotion_code_to_string_decoder = {
+    0: "neutral",
+    1: "anger",
+    2: "contempt",
+    3: "disgust",
+    4: "fear",
+    5: "happiness",
+    6: "sadness",
+    7: "surprise",
+}
+
 def map_image_to_emotion():
     with open('image_metadata.json') as f:
         json_data = json.load(f)
@@ -123,16 +145,6 @@ def get_subjects_with_all_four_emotions():
     
 
 def check_label_integrity():
-    emotion_decoder = {
-        "neutral": 0,
-        "anger": 1,
-        "contempt": 2,
-        "disgust": 3,
-        "fear": 4,
-        "happiness": 5,
-        "sadness": 6,
-        "surprise": 7,
-    }
     
     with open('image_metadata.json') as f:
         data = json.load(f)
@@ -155,19 +167,66 @@ def check_label_integrity():
         index += 1
         if "ckplus_emotion" in obj:
             json_emotion = obj["ckplus_emotion"]
-            json_emotion = emotion_decoder[json_emotion]
+            json_emotion = string_to_emotion_code_decoder[json_emotion]
             # print(json_emotion)
             if csv_emotion != json_emotion:
                 print(f"Image: {key}, CSV emotion: {csv_emotion}, JSON emotion: {json_emotion}")
             
     
+def make_modified_image_metadata():
+    with open('image_metadata.json') as f:
+        data = json.load(f) 
+    
+    with open("image_emotion_mapping.csv", "r") as f:
+        reader = csv.reader(f)
+        header = next(reader)  # Skip the header row
+        csv_rows = [row for row in reader]
+    
+    emotion_labels = []
+    for row in csv_rows:
+        emotion = row[1]
+        emotion_labels.append(emotion)
+    
+    output = {}
+    
+    index = 0
+    for key, obj in data.items():
+        emotion = emotion_labels[index]
+        emotion = int(emotion)
+        index += 1
         
+        subject_id = obj["subject_id"]
+        session_id = obj["session_id"]
+        image_id = obj["image_id"]
+        image_path = obj["image_path"]
+        
+        image_data = {
+            "subject_id": subject_id,
+            "session_id": session_id,
+            "image_id": image_id,
+            "image_path": image_path
+        }
+        
+        if "ckplus_emotion" not in obj:    
+            image_data["labelled_emotion"] = emotion_code_to_string_decoder[emotion]
+        else:
+            image_data["ckplus_emotion"] = obj["ckplus_emotion"]
+        
+        output[key] = image_data
+    
+    with open("modified_image_metadata.json", "w") as f:
+        json.dump(output, f, indent=2)
+            
+        
+            
     
     
-
+    
+    
 map_image_to_emotion()
 check_if_a_session_contains_multiple_emotions()
 map_subject_to_its_available_emotions()
 map_emotions_to_its_subjects()
 get_subjects_with_all_four_emotions()
 check_label_integrity()
+make_modified_image_metadata()
