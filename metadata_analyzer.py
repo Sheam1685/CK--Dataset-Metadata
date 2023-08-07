@@ -1,26 +1,68 @@
+import csv
 import json
-import os
+import pandas as pd
 
-root_dir = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\cohn-kanade-images"
+with open('image_metadata.json') as f:
+    json_data = json.load(f)
 
-session_count = 0
+with open('emotion_label_copy.csv', 'r') as infile:
+    reader = csv.reader(infile)
+    header = next(reader)  # Skip the header row
+    csv_rows = [row for row in reader]
 
-for path, dirnames, _ in os.walk(root_dir):
-    # print(path, dirnames)
-    if path != root_dir: # Skip the root directory folder count.
-        session_count += len(dirnames)
-        
-        for sub_path, sub_dir, _ in os.walk(path):
-            if sub_path != path:
-                file_count = 0
-                for item in os.listdir(sub_path):
-                    item_path = os.path.join(sub_path, item)
-                    if os.path.isfile(item_path):
-                        file_count += 1
-                if file_count == 0:
-                    print(f"Empty folder: {sub_path}")
-        
-print(f"Number of sessions: {session_count}")
+keys = []
+for key, obj in json_data.items():
+    keys.append(key)
+
+emotions = []
+for row in csv_rows:
+    emotion = row[0]
+    emotions.append(emotion)
+
+new_csv_rows = []
+
+for i in range(len(emotions)):
+    if i == len(emotions) - 1:
+        string = "bla" + "," + emotions[i]
+        new_csv_rows.append(string)
+        break
+    string = keys[i] + "," + emotions[i]
+    new_csv_rows.append(string)
+
+# Split each string in the array into name, address, and phone parts
+data = {
+    "image file name": [],
+    "emotion": [],
+}
+
+for item in new_csv_rows:
+    image_file_name, emotion = item.split(",")
+    data["image file name"].append(image_file_name)
+    data["emotion"].append(emotion)
+
+# Create a DataFrame from the data dictionary
+df = pd.DataFrame(data)
+
+# Save the DataFrame to a CSV file
+csv_file_path = "debug_data.csv"
+df.to_csv(csv_file_path, index=False)
+
+# Read the CSV file into a DataFrame
+df = pd.read_csv('debug_data.csv')
+
+df['image file name'] = df['image file name'].str[:-8]
+
+# Group the data by the 'key' column
+grouped = df.groupby('image file name')['emotion'].apply(list)
+
+# Check if all emotions within each group are the same
+for image_file_name, emotions in grouped.items():
+    unique_emotions = set(emotions)
+    if len(unique_emotions) != 1:
+        print(f"image: {image_file_name}: Different emotions - {', '.join(str(unique_emotions))}")
+        break
+
+
 
 with open('image_metadata.json') as f:
     data = json.load(f)
