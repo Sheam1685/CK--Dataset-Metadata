@@ -1,0 +1,474 @@
+[
+  {
+    "subject_id": "S005",
+    "emotion": "disgust"
+  },
+  {
+    "subject_id": "S010",
+    "emotion": "surprise, anger, happiness"
+  },
+  {
+    "subject_id": "S011",
+    "emotion": "surprise, sadness, fear, anger, disgust, happiness"
+  },
+  {
+    "subject_id": "S014",
+    "emotion": "surprise, sadness, anger, happiness"
+  },
+  {
+    "subject_id": "S022",
+    "emotion": "surprise, anger, disgust"
+  },
+  {
+    "subject_id": "S026",
+    "emotion": "surprise, sadness, anger, happiness"
+  },
+  {
+    "subject_id": "S028",
+    "emotion": "anger"
+  },
+  {
+    "subject_id": "S029",
+    "emotion": "anger"
+  },
+  {
+    "subject_id": "S032",
+    "emotion": "surprise, anger, fear, disgust, happiness"
+  },
+  {
+    "subject_id": "S034",
+    "emotion": "surprise, anger, happiness"
+  },
+  {
+    "subject_id": "S035",
+    "emotion": "surprise, disgust, happiness"
+  },
+  {
+    "subject_id": "S037",
+    "emotion": "surprise, anger, happiness"
+  },
+  {
+    "subject_id": "S042",
+    "emotion": "surprise, sadness, anger, happiness"
+  },
+  {
+    "subject_id": "S044",
+    "emotion": "surprise, happiness, disgust"
+  },
+  {
+    "subject_id": "S045",
+    "emotion": "disgust, anger"
+  },
+  {
+    "subject_id": "S046",
+    "emotion": "sadness, surprise, fear, disgust"
+  },
+  {
+    "subject_id": "S050",
+    "emotion": "fear, surprise, anger, happiness"
+  },
+  {
+    "subject_id": "S051",
+    "emotion": "surprise, disgust"
+  },
+  {
+    "subject_id": "S052",
+    "emotion": "surprise, happiness, disgust"
+  },
+  {
+    "subject_id": "S053",
+    "emotion": "surprise, happiness"
+  },
+  {
+    "subject_id": "S054",
+    "emotion": "fear, surprise, disgust"
+  },
+  {
+    "subject_id": "S055",
+    "emotion": "surprise, disgust, anger, happiness, fear"
+  },
+  {
+    "subject_id": "S056",
+    "emotion": "disgust, surprise, happiness"
+  },
+  {
+    "subject_id": "S057",
+    "emotion": "surprise, disgust, happiness"
+  },
+  {
+    "subject_id": "S058",
+    "emotion": "surprise, anger, disgust"
+  },
+  {
+    "subject_id": "S059",
+    "emotion": "surprise, fear"
+  },
+  {
+    "subject_id": "S060",
+    "emotion": "happiness, surprise, disgust"
+  },
+  {
+    "subject_id": "S061",
+    "emotion": "surprise, happiness, disgust"
+  },
+  {
+    "subject_id": "S062",
+    "emotion": "fear, surprise, happiness, disgust"
+  },
+  {
+    "subject_id": "S063",
+    "emotion": "surprise, happiness"
+  },
+  {
+    "subject_id": "S064",
+    "emotion": "surprise, happiness, sadness"
+  },
+  {
+    "subject_id": "S065",
+    "emotion": "fear, surprise, happiness, disgust"
+  },
+  {
+    "subject_id": "S066",
+    "emotion": "surprise, happiness, sadness, anger"
+  },
+  {
+    "subject_id": "S067",
+    "emotion": "surprise, anger, happiness, disgust"
+  },
+  {
+    "subject_id": "S068",
+    "emotion": "happiness, surprise, fear, disgust"
+  },
+  {
+    "subject_id": "S069",
+    "emotion": "surprise, disgust, happiness"
+  },
+  {
+    "subject_id": "S070",
+    "emotion": "surprise, happiness, disgust"
+  },
+  {
+    "subject_id": "S071",
+    "emotion": "surprise, sadness, anger, happiness, disgust"
+  },
+  {
+    "subject_id": "S072",
+    "emotion": "anger, happiness"
+  },
+  {
+    "subject_id": "S073",
+    "emotion": "surprise, disgust"
+  },
+  {
+    "subject_id": "S074",
+    "emotion": "fear, surprise, disgust, happiness"
+  },
+  {
+    "subject_id": "S075",
+    "emotion": "surprise, disgust, happiness, anger"
+  },
+  {
+    "subject_id": "S076",
+    "emotion": "surprise, disgust, happiness"
+  },
+  {
+    "subject_id": "S077",
+    "emotion": "surprise, disgust"
+  },
+  {
+    "subject_id": "S078",
+    "emotion": "surprise, happiness, disgust"
+  },
+  {
+    "subject_id": "S079",
+    "emotion": "surprise, disgust, happiness"
+  },
+  {
+    "subject_id": "S080",
+    "emotion": "surprise, sadness, disgust"
+  },
+  {
+    "subject_id": "S081",
+    "emotion": "surprise, sadness, disgust"
+  },
+  {
+    "subject_id": "S082",
+    "emotion": "surprise, anger, disgust"
+  },
+  {
+    "subject_id": "S083",
+    "emotion": "happiness"
+  },
+  {
+    "subject_id": "S084",
+    "emotion": "surprise, fear"
+  },
+  {
+    "subject_id": "S085",
+    "emotion": "happiness, surprise, disgust"
+  },
+  {
+    "subject_id": "S086",
+    "emotion": "surprise, happiness"
+  },
+  {
+    "subject_id": "S087",
+    "emotion": "surprise, disgust, happiness, anger"
+  },
+  {
+    "subject_id": "S088",
+    "emotion": "surprise, disgust"
+  },
+  {
+    "subject_id": "S089",
+    "emotion": "surprise, happiness, anger"
+  },
+  {
+    "subject_id": "S090",
+    "emotion": "surprise, disgust, anger"
+  },
+  {
+    "subject_id": "S091",
+    "emotion": "fear, happiness"
+  },
+  {
+    "subject_id": "S092",
+    "emotion": "surprise, anger, happiness"
+  },
+  {
+    "subject_id": "S093",
+    "emotion": "sadness, happiness"
+  },
+  {
+    "subject_id": "S094",
+    "emotion": "surprise, happiness"
+  },
+  {
+    "subject_id": "S095",
+    "emotion": "surprise, disgust, happiness, sadness"
+  },
+  {
+    "subject_id": "S096",
+    "emotion": "surprise, disgust, happiness"
+  },
+  {
+    "subject_id": "S097",
+    "emotion": "surprise, disgust, happiness"
+  },
+  {
+    "subject_id": "S098",
+    "emotion": "disgust, happiness"
+  },
+  {
+    "subject_id": "S099",
+    "emotion": "surprise, happiness, disgust"
+  },
+  {
+    "subject_id": "S100",
+    "emotion": "surprise, anger, happiness"
+  },
+  {
+    "subject_id": "S101",
+    "emotion": "surprise"
+  },
+  {
+    "subject_id": "S102",
+    "emotion": "surprise, fear, disgust"
+  },
+  {
+    "subject_id": "S105",
+    "emotion": "disgust"
+  },
+  {
+    "subject_id": "S106",
+    "emotion": "sadness, disgust, happiness"
+  },
+  {
+    "subject_id": "S107",
+    "emotion": "surprise, disgust"
+  },
+  {
+    "subject_id": "S108",
+    "emotion": "sadness, disgust, happiness"
+  },
+  {
+    "subject_id": "S109",
+    "emotion": "anger, disgust, happiness"
+  },
+  {
+    "subject_id": "S110",
+    "emotion": "surprise"
+  },
+  {
+    "subject_id": "S111",
+    "emotion": "surprise, anger, disgust"
+  },
+  {
+    "subject_id": "S112",
+    "emotion": "anger"
+  },
+  {
+    "subject_id": "S113",
+    "emotion": "surprise, sadness, anger"
+  },
+  {
+    "subject_id": "S114",
+    "emotion": "surprise, happiness"
+  },
+  {
+    "subject_id": "S115",
+    "emotion": "surprise, sadness, happiness"
+  },
+  {
+    "subject_id": "S116",
+    "emotion": "surprise, disgust, happiness"
+  },
+  {
+    "subject_id": "S117",
+    "emotion": "surprise, fear, anger"
+  },
+  {
+    "subject_id": "S119",
+    "emotion": "surprise, fear, anger"
+  },
+  {
+    "subject_id": "S122",
+    "emotion": "surprise"
+  },
+  {
+    "subject_id": "S124",
+    "emotion": "surprise, fear, disgust, happiness"
+  },
+  {
+    "subject_id": "S125",
+    "emotion": "sadness, happiness, fear, surprise, disgust"
+  },
+  {
+    "subject_id": "S126",
+    "emotion": "surprise, anger"
+  },
+  {
+    "subject_id": "S127",
+    "emotion": "surprise, happiness, anger"
+  },
+  {
+    "subject_id": "S128",
+    "emotion": "disgust, happiness"
+  },
+  {
+    "subject_id": "S129",
+    "emotion": "surprise, anger, disgust, happiness"
+  },
+  {
+    "subject_id": "S130",
+    "emotion": "surprise, anger, sadness, disgust, happiness"
+  },
+  {
+    "subject_id": "S131",
+    "emotion": "surprise, sadness, happiness, disgust"
+  },
+  {
+    "subject_id": "S132",
+    "emotion": "sadness, fear, disgust, happiness, surprise"
+  },
+  {
+    "subject_id": "S133",
+    "emotion": "anger, surprise, happiness"
+  },
+  {
+    "subject_id": "S134",
+    "emotion": "anger, happiness, disgust"
+  },
+  {
+    "subject_id": "S135",
+    "emotion": "surprise, happiness"
+  },
+  {
+    "subject_id": "S136",
+    "emotion": "surprise, sadness, anger, happiness"
+  },
+  {
+    "subject_id": "S137",
+    "emotion": "surprise, sadness, happiness"
+  },
+  {
+    "subject_id": "S138",
+    "emotion": "fear, surprise, happiness, sadness, contempt"
+  },
+  {
+    "subject_id": "S139",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S147",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S148",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S149",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S151",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S154",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S155",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S156",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S157",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S158",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S160",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S501",
+    "emotion": "anger, fear, sadness"
+  },
+  {
+    "subject_id": "S502",
+    "emotion": "anger, contempt, fear"
+  },
+  {
+    "subject_id": "S503",
+    "emotion": "anger, contempt, sadness"
+  },
+  {
+    "subject_id": "S504",
+    "emotion": "anger, contempt, fear, sadness"
+  },
+  {
+    "subject_id": "S505",
+    "emotion": "contempt, sadness"
+  },
+  {
+    "subject_id": "S506",
+    "emotion": "anger, contempt, fear, sadness"
+  },
+  {
+    "subject_id": "S895",
+    "emotion": "contempt"
+  },
+  {
+    "subject_id": "S999",
+    "emotion": "anger, fear"
+  }
+]
