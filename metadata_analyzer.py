@@ -22,10 +22,6 @@ for row in csv_rows:
 new_csv_rows = []
 
 for i in range(len(emotions)):
-    if i == len(emotions) - 1:
-        string = "bla" + "," + emotions[i]
-        new_csv_rows.append(string)
-        break
     string = keys[i] + "," + emotions[i]
     new_csv_rows.append(string)
 
