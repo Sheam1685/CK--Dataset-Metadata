@@ -216,6 +216,15 @@ def make_modified_image_metadata():
     
     with open("modified_image_metadata.json", "w") as f:
         json.dump(output, f, indent=2)
+        
+
+def check_for_duplicate_row():
+    df = pd.read_csv('emotion_label.csv')
+    # check if there is a copy of row 6791
+    row = df.loc[6791]
+    mask = df.eq(row)
+    duplicate = df[mask.all(axis=1)]
+    print(duplicate)
             
         
             
@@ -223,10 +232,11 @@ def make_modified_image_metadata():
     
     
     
-map_image_to_emotion()
-check_if_a_session_contains_multiple_emotions()
-map_subject_to_its_available_emotions()
-map_emotions_to_its_subjects()
-get_subjects_with_all_four_emotions()
-check_label_integrity()
-make_modified_image_metadata()
+# map_image_to_emotion()
+# check_if_a_session_contains_multiple_emotions()
+# map_subject_to_its_available_emotions()
+# map_emotions_to_its_subjects()
+# get_subjects_with_all_four_emotions()
+# check_label_integrity()
+# make_modified_image_metadata()
+check_for_duplicate_row()

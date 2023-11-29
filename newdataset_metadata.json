@@ -1,0 +1,6327 @@
+{
+  "S010_006": {
+    "happy_images": [
+      {
+        "subject_id": "S010",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S010\\006\\S010_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S010",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S010\\006\\S010_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S010",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S010\\006\\S010_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S010",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S010\\006\\S010_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S010",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S010\\006\\S010_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S010",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S010\\006\\S010_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S010",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S010\\006\\S010_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S011_006": {
+    "happy_images": [
+      {
+        "subject_id": "S011",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S011\\006\\S011_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S011",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S011\\006\\S011_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S011",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S011\\006\\S011_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S011",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S011\\006\\S011_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S011",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S011\\006\\S011_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S011",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S011\\006\\S011_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S011",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S011\\006\\S011_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S014_005": {
+    "happy_images": [
+      {
+        "subject_id": "S014",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S014\\005\\S014_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S014",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S014\\005\\S014_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S014",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S014\\005\\S014_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S014",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S014\\005\\S014_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S014",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S014\\005\\S014_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S014",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S014\\005\\S014_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S014",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S014\\005\\S014_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S022_002": {
+    "happy_images": [
+      {
+        "subject_id": "S022",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S022\\002\\S022_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S022",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S022\\002\\S022_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S022",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S022\\002\\S022_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S022",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S022\\002\\S022_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S022",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S022\\002\\S022_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S022",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S022\\002\\S022_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S022",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S022\\002\\S022_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S022_003": {
+    "happy_images": [
+      {
+        "subject_id": "S022",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S022\\003\\S022_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S022",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S022\\003\\S022_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S022",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S022\\003\\S022_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S022",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S022\\003\\S022_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S022",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S022\\003\\S022_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S022",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S022\\003\\S022_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S022",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S022\\003\\S022_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S026_005": {
+    "happy_images": [
+      {
+        "subject_id": "S026",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S026\\005\\S026_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S026",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S026\\005\\S026_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S026",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S026\\005\\S026_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S026",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S026\\005\\S026_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S026",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S026\\005\\S026_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S026",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S026\\005\\S026_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S026",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S026\\005\\S026_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S026_006": {
+    "happy_images": [
+      {
+        "subject_id": "S026",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S026\\006\\S026_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S026",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S026\\006\\S026_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S026",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S026\\006\\S026_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S026",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S026\\006\\S026_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S026",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S026\\006\\S026_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S026",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S026\\006\\S026_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S026",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S026\\006\\S026_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S032_006": {
+    "happy_images": [
+      {
+        "subject_id": "S032",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S032\\006\\S032_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S032",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S032\\006\\S032_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S032",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S032\\006\\S032_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S032",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S032\\006\\S032_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S032",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S032\\006\\S032_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S032",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S032\\006\\S032_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S032",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S032\\006\\S032_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S034_005": {
+    "happy_images": [
+      {
+        "subject_id": "S034",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S034\\005\\S034_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S034",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S034\\005\\S034_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S034",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S034\\005\\S034_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S034",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S034\\005\\S034_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S034",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S034\\005\\S034_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S034",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S034\\005\\S034_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S034",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S034\\005\\S034_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S035_003": {
+    "happy_images": [
+      {
+        "subject_id": "S035",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S035\\003\\S035_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S035",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S035\\003\\S035_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S035",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S035\\003\\S035_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S035",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S035\\003\\S035_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S035",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S035\\003\\S035_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S035",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S035\\003\\S035_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S035",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S035\\003\\S035_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S035_006": {
+    "happy_images": [
+      {
+        "subject_id": "S035",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S035\\006\\S035_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S035",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S035\\006\\S035_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S035",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S035\\006\\S035_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S035",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S035\\006\\S035_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S035",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S035\\006\\S035_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S035",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S035\\006\\S035_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S035",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S035\\006\\S035_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S037_006": {
+    "happy_images": [
+      {
+        "subject_id": "S037",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S037\\006\\S037_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S037",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S037\\006\\S037_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S037",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S037\\006\\S037_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S037",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S037\\006\\S037_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S037",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S037\\006\\S037_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S037",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S037\\006\\S037_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S037",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S037\\006\\S037_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S042_006": {
+    "happy_images": [
+      {
+        "subject_id": "S042",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S042\\006\\S042_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S042",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S042\\006\\S042_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S042",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S042\\006\\S042_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S042",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S042\\006\\S042_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S042",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S042\\006\\S042_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S042",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S042\\006\\S042_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S042",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S042\\006\\S042_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S044_003": {
+    "happy_images": [
+      {
+        "subject_id": "S044",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S044\\003\\S044_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S044",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S044\\003\\S044_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S044",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S044\\003\\S044_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S044",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S044\\003\\S044_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S044",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S044\\003\\S044_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S044",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S044\\003\\S044_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S044",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S044\\003\\S044_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S045_003": {
+    "happy_images": [
+      {
+        "subject_id": "S045",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S045\\003\\S045_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S045",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S045\\003\\S045_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S045",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S045\\003\\S045_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S045",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S045\\003\\S045_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S045",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S045\\003\\S045_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S045",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S045\\003\\S045_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S045",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S045\\003\\S045_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S046_005": {
+    "happy_images": [
+      {
+        "subject_id": "S046",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S046\\005\\S046_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S046",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S046\\005\\S046_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S046",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S046\\005\\S046_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S046",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S046\\005\\S046_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S046",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S046\\005\\S046_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S046",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S046\\005\\S046_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S046",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S046\\005\\S046_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S050_006": {
+    "happy_images": [
+      {
+        "subject_id": "S050",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S050\\006\\S050_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S050",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S050\\006\\S050_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S050",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S050\\006\\S050_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S050",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S050\\006\\S050_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S050",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S050\\006\\S050_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S050",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S050\\006\\S050_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S050",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S050\\006\\S050_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S052_004": {
+    "happy_images": [
+      {
+        "subject_id": "S052",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S052\\004\\S052_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S052",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S052\\004\\S052_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S052",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S052\\004\\S052_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S052",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S052\\004\\S052_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S052",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S052\\004\\S052_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S052",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S052\\004\\S052_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S052",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S052\\004\\S052_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S053_004": {
+    "happy_images": [
+      {
+        "subject_id": "S053",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S053\\004\\S053_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S053",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S053\\004\\S053_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S053",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S053\\004\\S053_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S053",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S053\\004\\S053_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S053",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S053\\004\\S053_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S053",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S053\\004\\S053_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S053",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S053\\004\\S053_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S054_001": {
+    "happy_images": [
+      {
+        "subject_id": "S054",
+        "session_id": "001",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S054\\001\\S054_001_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S054",
+        "session_id": "001",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S054\\001\\S054_001_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S054",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S054\\001\\S054_001_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S054",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S054\\001\\S054_001_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S054",
+        "session_id": "001",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S054\\001\\S054_001_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S054",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S054\\001\\S054_001_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S054",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S054\\001\\S054_001_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S055_005": {
+    "happy_images": [
+      {
+        "subject_id": "S055",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S055\\005\\S055_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S055",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S055\\005\\S055_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S055",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S055\\005\\S055_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S055",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S055\\005\\S055_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S055",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S055\\005\\S055_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S055",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S055\\005\\S055_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S055",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S055\\005\\S055_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S056_004": {
+    "happy_images": [
+      {
+        "subject_id": "S056",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S056\\004\\S056_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S056",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S056\\004\\S056_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S056",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S056\\004\\S056_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S056",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S056\\004\\S056_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S056",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S056\\004\\S056_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S056",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S056\\004\\S056_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S056",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S056\\004\\S056_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S057_006": {
+    "happy_images": [
+      {
+        "subject_id": "S057",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S057\\006\\S057_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S057",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S057\\006\\S057_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S057",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S057\\006\\S057_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S057",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S057\\006\\S057_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S057",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S057\\006\\S057_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S057",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S057\\006\\S057_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S057",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S057\\006\\S057_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S058_002": {
+    "happy_images": [
+      {
+        "subject_id": "S058",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S058\\002\\S058_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S058",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S058\\002\\S058_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S058",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S058\\002\\S058_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S058",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S058\\002\\S058_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S058",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S058\\002\\S058_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S058",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S058\\002\\S058_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S058",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S058\\002\\S058_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S060_002": {
+    "happy_images": [
+      {
+        "subject_id": "S060",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S060\\002\\S060_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S060",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S060\\002\\S060_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S060",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S060\\002\\S060_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S060",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S060\\002\\S060_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S060",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S060\\002\\S060_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S060",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S060\\002\\S060_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S060",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S060\\002\\S060_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S061_002": {
+    "happy_images": [
+      {
+        "subject_id": "S061",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S061\\002\\S061_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S061",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S061\\002\\S061_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S061",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S061\\002\\S061_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S061",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S061\\002\\S061_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S061",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S061\\002\\S061_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S061",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S061\\002\\S061_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S061",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S061\\002\\S061_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S062_004": {
+    "happy_images": [
+      {
+        "subject_id": "S062",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S062\\004\\S062_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S062",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S062\\004\\S062_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S062",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S062\\004\\S062_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S062",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S062\\004\\S062_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S062",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S062\\004\\S062_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S062",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S062\\004\\S062_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S062",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S062\\004\\S062_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S063_002": {
+    "happy_images": [
+      {
+        "subject_id": "S063",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S063\\002\\S063_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S063",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S063\\002\\S063_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S063",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S063\\002\\S063_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S063",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S063\\002\\S063_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S063",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S063\\002\\S063_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S063",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S063\\002\\S063_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S063",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S063\\002\\S063_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S064_003": {
+    "happy_images": [
+      {
+        "subject_id": "S064",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S064\\003\\S064_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S064",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S064\\003\\S064_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S064",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S064\\003\\S064_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S064",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S064\\003\\S064_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S064",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S064\\003\\S064_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S064",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S064\\003\\S064_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S064",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S064\\003\\S064_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S065_004": {
+    "happy_images": [
+      {
+        "subject_id": "S065",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S065\\004\\S065_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S065",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S065\\004\\S065_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S065",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S065\\004\\S065_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S065",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S065\\004\\S065_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S065",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S065\\004\\S065_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S065",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S065\\004\\S065_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S065",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S065\\004\\S065_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S066_003": {
+    "happy_images": [
+      {
+        "subject_id": "S066",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S066\\003\\S066_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S066",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S066\\003\\S066_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S066",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S066\\003\\S066_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S066",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S066\\003\\S066_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S066",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S066\\003\\S066_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S066",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S066\\003\\S066_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S066",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S066\\003\\S066_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S067_005": {
+    "happy_images": [
+      {
+        "subject_id": "S067",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S067\\005\\S067_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S067",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S067\\005\\S067_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S067",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S067\\005\\S067_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S067",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S067\\005\\S067_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S067",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S067\\005\\S067_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S067",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S067\\005\\S067_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S067",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S067\\005\\S067_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S068_002": {
+    "happy_images": [
+      {
+        "subject_id": "S068",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S068\\002\\S068_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S068",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S068\\002\\S068_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S068",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S068\\002\\S068_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S068",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S068\\002\\S068_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S068",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S068\\002\\S068_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S068",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S068\\002\\S068_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S068",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S068\\002\\S068_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S069_004": {
+    "happy_images": [
+      {
+        "subject_id": "S069",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S069\\004\\S069_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S069",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S069\\004\\S069_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S069",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S069\\004\\S069_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S069",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S069\\004\\S069_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S069",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S069\\004\\S069_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S069",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S069\\004\\S069_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S069",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S069\\004\\S069_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S070_001": {
+    "happy_images": [
+      {
+        "subject_id": "S070",
+        "session_id": "001",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S070\\001\\S070_001_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S070",
+        "session_id": "001",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S070\\001\\S070_001_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S070",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S070\\001\\S070_001_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S070",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S070\\001\\S070_001_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S070",
+        "session_id": "001",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S070\\001\\S070_001_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S070",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S070\\001\\S070_001_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S070",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S070\\001\\S070_001_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S070_003": {
+    "happy_images": [
+      {
+        "subject_id": "S070",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S070\\003\\S070_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S070",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S070\\003\\S070_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S070",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S070\\003\\S070_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S070",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S070\\003\\S070_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S070",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S070\\003\\S070_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S070",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S070\\003\\S070_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S070",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S070\\003\\S070_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S071_003": {
+    "happy_images": [
+      {
+        "subject_id": "S071",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S071\\003\\S071_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S071",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S071\\003\\S071_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S071",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S071\\003\\S071_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S071",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S071\\003\\S071_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S071",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S071\\003\\S071_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S071",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S071\\003\\S071_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S071",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S071\\003\\S071_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S071_005": {
+    "happy_images": [
+      {
+        "subject_id": "S071",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S071\\005\\S071_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S071",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S071\\005\\S071_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S071",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S071\\005\\S071_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S071",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S071\\005\\S071_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S071",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S071\\005\\S071_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S071",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S071\\005\\S071_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S071",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S071\\005\\S071_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S072_006": {
+    "happy_images": [
+      {
+        "subject_id": "S072",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S072\\006\\S072_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S072",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S072\\006\\S072_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S072",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S072\\006\\S072_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S072",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S072\\006\\S072_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S072",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S072\\006\\S072_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S072",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S072\\006\\S072_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S072",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S072\\006\\S072_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S073_002": {
+    "happy_images": [
+      {
+        "subject_id": "S073",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S073\\002\\S073_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S073",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S073\\002\\S073_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S073",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S073\\002\\S073_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S073",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S073\\002\\S073_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S073",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S073\\002\\S073_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S073",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S073\\002\\S073_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S073",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S073\\002\\S073_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S074_005": {
+    "happy_images": [
+      {
+        "subject_id": "S074",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S074\\005\\S074_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S074",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S074\\005\\S074_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S074",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S074\\005\\S074_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S074",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S074\\005\\S074_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S074",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S074\\005\\S074_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S074",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S074\\005\\S074_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S074",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S074\\005\\S074_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S075_006": {
+    "happy_images": [
+      {
+        "subject_id": "S075",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S075\\006\\S075_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S075",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S075\\006\\S075_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S075",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S075\\006\\S075_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S075",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S075\\006\\S075_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S075",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S075\\006\\S075_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S075",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S075\\006\\S075_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S075",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S075\\006\\S075_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S076_006": {
+    "happy_images": [
+      {
+        "subject_id": "S076",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S076\\006\\S076_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S076",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S076\\006\\S076_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S076",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S076\\006\\S076_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S076",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S076\\006\\S076_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S076",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S076\\006\\S076_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S076",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S076\\006\\S076_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S076",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S076\\006\\S076_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S077_002": {
+    "happy_images": [
+      {
+        "subject_id": "S077",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S077\\002\\S077_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S077",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S077\\002\\S077_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S077",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S077\\002\\S077_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S077",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S077\\002\\S077_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S077",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S077\\002\\S077_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S077",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S077\\002\\S077_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S077",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S077\\002\\S077_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S078_004": {
+    "happy_images": [
+      {
+        "subject_id": "S078",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S078\\004\\S078_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S078",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S078\\004\\S078_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S078",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S078\\004\\S078_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S078",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S078\\004\\S078_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S078",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S078\\004\\S078_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S078",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S078\\004\\S078_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S078",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S078\\004\\S078_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S079_004": {
+    "happy_images": [
+      {
+        "subject_id": "S079",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S079\\004\\S079_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S079",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S079\\004\\S079_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S079",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S079\\004\\S079_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S079",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S079\\004\\S079_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S079",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S079\\004\\S079_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S079",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S079\\004\\S079_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S079",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S079\\004\\S079_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S080_002": {
+    "happy_images": [
+      {
+        "subject_id": "S080",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S080\\002\\S080_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S080",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S080\\002\\S080_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S080",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S080\\002\\S080_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S080",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S080\\002\\S080_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S080",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S080\\002\\S080_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S080",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S080\\002\\S080_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S080",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S080\\002\\S080_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S081_005": {
+    "happy_images": [
+      {
+        "subject_id": "S081",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S081\\005\\S081_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S081",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S081\\005\\S081_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S081",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S081\\005\\S081_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S081",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S081\\005\\S081_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S081",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S081\\005\\S081_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S081",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S081\\005\\S081_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S081",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S081\\005\\S081_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S083_003": {
+    "happy_images": [
+      {
+        "subject_id": "S083",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S083\\003\\S083_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S083",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S083\\003\\S083_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S083",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S083\\003\\S083_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S083",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S083\\003\\S083_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S083",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S083\\003\\S083_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S083",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S083\\003\\S083_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S083",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S083\\003\\S083_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S085_002": {
+    "happy_images": [
+      {
+        "subject_id": "S085",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S085\\002\\S085_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S085",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S085\\002\\S085_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S085",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S085\\002\\S085_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S085",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S085\\002\\S085_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S085",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S085\\002\\S085_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S085",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S085\\002\\S085_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S085",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S085\\002\\S085_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S086_002": {
+    "happy_images": [
+      {
+        "subject_id": "S086",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S086\\002\\S086_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S086",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S086\\002\\S086_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S086",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S086\\002\\S086_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S086",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S086\\002\\S086_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S086",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S086\\002\\S086_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S086",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S086\\002\\S086_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S086",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S086\\002\\S086_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S087_005": {
+    "happy_images": [
+      {
+        "subject_id": "S087",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S087\\005\\S087_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S087",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S087\\005\\S087_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S087",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S087\\005\\S087_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S087",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S087\\005\\S087_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S087",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S087\\005\\S087_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S087",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S087\\005\\S087_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S087",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S087\\005\\S087_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S088_002": {
+    "happy_images": [
+      {
+        "subject_id": "S088",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S088\\002\\S088_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S088",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S088\\002\\S088_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S088",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S088\\002\\S088_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S088",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S088\\002\\S088_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S088",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S088\\002\\S088_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S088",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S088\\002\\S088_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S088",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S088\\002\\S088_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S089_002": {
+    "happy_images": [
+      {
+        "subject_id": "S089",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S089\\002\\S089_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S089",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S089\\002\\S089_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S089",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S089\\002\\S089_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S089",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S089\\002\\S089_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S089",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S089\\002\\S089_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S089",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S089\\002\\S089_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S089",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S089\\002\\S089_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S091_003": {
+    "happy_images": [
+      {
+        "subject_id": "S091",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S091\\003\\S091_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S091",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S091\\003\\S091_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S091",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S091\\003\\S091_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S091",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S091\\003\\S091_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S091",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S091\\003\\S091_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S091",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S091\\003\\S091_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S091",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S091\\003\\S091_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S092_004": {
+    "happy_images": [
+      {
+        "subject_id": "S092",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S092\\004\\S092_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S092",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S092\\004\\S092_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S092",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S092\\004\\S092_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S092",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S092\\004\\S092_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S092",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S092\\004\\S092_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S092",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S092\\004\\S092_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S092",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S092\\004\\S092_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S093_004": {
+    "happy_images": [
+      {
+        "subject_id": "S093",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S093\\004\\S093_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S093",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S093\\004\\S093_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S093",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S093\\004\\S093_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S093",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S093\\004\\S093_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S093",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S093\\004\\S093_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S093",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S093\\004\\S093_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S093",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S093\\004\\S093_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S094_004": {
+    "happy_images": [
+      {
+        "subject_id": "S094",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S094\\004\\S094_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S094",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S094\\004\\S094_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S094",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S094\\004\\S094_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S094",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S094\\004\\S094_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S094",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S094\\004\\S094_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S094",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S094\\004\\S094_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S094",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S094\\004\\S094_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S095_007": {
+    "happy_images": [
+      {
+        "subject_id": "S095",
+        "session_id": "007",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S095\\007\\S095_007_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S095",
+        "session_id": "007",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S095\\007\\S095_007_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S095",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S095\\007\\S095_007_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S095",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S095\\007\\S095_007_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S095",
+        "session_id": "007",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S095\\007\\S095_007_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S095",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S095\\007\\S095_007_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S095",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S095\\007\\S095_007_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S096_004": {
+    "happy_images": [
+      {
+        "subject_id": "S096",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S096\\004\\S096_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S096",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S096\\004\\S096_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S096",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S096\\004\\S096_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S096",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S096\\004\\S096_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S096",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S096\\004\\S096_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S096",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S096\\004\\S096_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S096",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S096\\004\\S096_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S097_005": {
+    "happy_images": [
+      {
+        "subject_id": "S097",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S097\\005\\S097_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S097",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S097\\005\\S097_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S097",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S097\\005\\S097_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S097",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S097\\005\\S097_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S097",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S097\\005\\S097_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S097",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S097\\005\\S097_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S097",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S097\\005\\S097_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S097_006": {
+    "happy_images": [
+      {
+        "subject_id": "S097",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S097\\006\\S097_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S097",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S097\\006\\S097_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S097",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S097\\006\\S097_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S097",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S097\\006\\S097_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S097",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S097\\006\\S097_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S097",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S097\\006\\S097_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S097",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S097\\006\\S097_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S098_004": {
+    "happy_images": [
+      {
+        "subject_id": "S098",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S098\\004\\S098_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S098",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S098\\004\\S098_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S098",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S098\\004\\S098_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S098",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S098\\004\\S098_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S098",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S098\\004\\S098_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S098",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S098\\004\\S098_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S098",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S098\\004\\S098_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S099_004": {
+    "happy_images": [
+      {
+        "subject_id": "S099",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S099\\004\\S099_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S099",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S099\\004\\S099_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S099",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S099\\004\\S099_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S099",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S099\\004\\S099_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S099",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S099\\004\\S099_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S099",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S099\\004\\S099_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S099",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S099\\004\\S099_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S100_006": {
+    "happy_images": [
+      {
+        "subject_id": "S100",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S100\\006\\S100_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S100",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S100\\006\\S100_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S100",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S100\\006\\S100_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S100",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S100\\006\\S100_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S100",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S100\\006\\S100_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S100",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S100\\006\\S100_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S100",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S100\\006\\S100_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S101_001": {
+    "happy_images": [
+      {
+        "subject_id": "S101",
+        "session_id": "001",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S101\\001\\S101_001_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S101",
+        "session_id": "001",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S101\\001\\S101_001_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S101",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S101\\001\\S101_001_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S101",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S101\\001\\S101_001_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S101",
+        "session_id": "001",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S101\\001\\S101_001_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S101",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S101\\001\\S101_001_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S101",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S101\\001\\S101_001_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S101_004": {
+    "happy_images": [
+      {
+        "subject_id": "S101",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S101\\004\\S101_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S101",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S101\\004\\S101_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S101",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S101\\004\\S101_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S101",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S101\\004\\S101_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S101",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S101\\004\\S101_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S101",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S101\\004\\S101_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S101",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S101\\004\\S101_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S102_004": {
+    "happy_images": [
+      {
+        "subject_id": "S102",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S102\\004\\S102_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S102",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S102\\004\\S102_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S102",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S102\\004\\S102_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S102",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S102\\004\\S102_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S102",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S102\\004\\S102_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S102",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S102\\004\\S102_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S102",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S102\\004\\S102_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S104_001": {
+    "happy_images": [
+      {
+        "subject_id": "S104",
+        "session_id": "001",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S104\\001\\S104_001_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S104",
+        "session_id": "001",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S104\\001\\S104_001_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S104",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S104\\001\\S104_001_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S104",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S104\\001\\S104_001_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S104",
+        "session_id": "001",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S104\\001\\S104_001_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S104",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S104\\001\\S104_001_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S104",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S104\\001\\S104_001_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S104_002": {
+    "happy_images": [
+      {
+        "subject_id": "S104",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S104\\002\\S104_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S104",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S104\\002\\S104_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S104",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S104\\002\\S104_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S104",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S104\\002\\S104_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S104",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S104\\002\\S104_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S104",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S104\\002\\S104_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S104",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S104\\002\\S104_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S105_003": {
+    "happy_images": [
+      {
+        "subject_id": "S105",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S105\\003\\S105_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S105",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S105\\003\\S105_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S105",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S105\\003\\S105_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S105",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S105\\003\\S105_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S105",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S105\\003\\S105_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S105",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S105\\003\\S105_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S105",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S105\\003\\S105_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S105_004": {
+    "happy_images": [
+      {
+        "subject_id": "S105",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S105\\004\\S105_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S105",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S105\\004\\S105_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S105",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S105\\004\\S105_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S105",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S105\\004\\S105_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S105",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S105\\004\\S105_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S105",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S105\\004\\S105_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S105",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S105\\004\\S105_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S106_006": {
+    "happy_images": [
+      {
+        "subject_id": "S106",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S106\\006\\S106_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S106",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S106\\006\\S106_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S106",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S106\\006\\S106_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S106",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S106\\006\\S106_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S106",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S106\\006\\S106_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S106",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S106\\006\\S106_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S106",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S106\\006\\S106_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S106_007": {
+    "happy_images": [
+      {
+        "subject_id": "S106",
+        "session_id": "007",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S106\\007\\S106_007_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S106",
+        "session_id": "007",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S106\\007\\S106_007_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S106",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S106\\007\\S106_007_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S106",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S106\\007\\S106_007_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S106",
+        "session_id": "007",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S106\\007\\S106_007_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S106",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S106\\007\\S106_007_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S106",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S106\\007\\S106_007_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S108_008": {
+    "happy_images": [
+      {
+        "subject_id": "S108",
+        "session_id": "008",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S108\\008\\S108_008_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S108",
+        "session_id": "008",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S108\\008\\S108_008_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S108",
+        "session_id": "008",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S108\\008\\S108_008_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S108",
+        "session_id": "008",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S108\\008\\S108_008_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S108",
+        "session_id": "008",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S108\\008\\S108_008_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S108",
+        "session_id": "008",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S108\\008\\S108_008_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S108",
+        "session_id": "008",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S108\\008\\S108_008_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S109_006": {
+    "happy_images": [
+      {
+        "subject_id": "S109",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S109\\006\\S109_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S109",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S109\\006\\S109_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S109",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S109\\006\\S109_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S109",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S109\\006\\S109_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S109",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S109\\006\\S109_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S109",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S109\\006\\S109_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S109",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S109\\006\\S109_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S110_007": {
+    "happy_images": [
+      {
+        "subject_id": "S110",
+        "session_id": "007",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S110\\007\\S110_007_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S110",
+        "session_id": "007",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S110\\007\\S110_007_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S110",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S110\\007\\S110_007_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S110",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S110\\007\\S110_007_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S110",
+        "session_id": "007",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S110\\007\\S110_007_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S110",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S110\\007\\S110_007_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S110",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S110\\007\\S110_007_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S111_002": {
+    "happy_images": [
+      {
+        "subject_id": "S111",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S111\\002\\S111_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S111",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S111\\002\\S111_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S111",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S111\\002\\S111_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S111",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S111\\002\\S111_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S111",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S111\\002\\S111_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S111",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S111\\002\\S111_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S111",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S111\\002\\S111_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S113_004": {
+    "happy_images": [
+      {
+        "subject_id": "S113",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S113\\004\\S113_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S113",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S113\\004\\S113_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S113",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S113\\004\\S113_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S113",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S113\\004\\S113_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S113",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S113\\004\\S113_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S113",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S113\\004\\S113_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S113",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S113\\004\\S113_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S114_002": {
+    "happy_images": [
+      {
+        "subject_id": "S114",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S114\\002\\S114_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S114",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S114\\002\\S114_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S114",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S114\\002\\S114_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S114",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S114\\002\\S114_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S114",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S114\\002\\S114_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S114",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S114\\002\\S114_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S114",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S114\\002\\S114_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S114_006": {
+    "happy_images": [
+      {
+        "subject_id": "S114",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S114\\006\\S114_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S114",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S114\\006\\S114_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S114",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S114\\006\\S114_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S114",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S114\\006\\S114_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S114",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S114\\006\\S114_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S114",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S114\\006\\S114_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S114",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S114\\006\\S114_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S115_005": {
+    "happy_images": [
+      {
+        "subject_id": "S115",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S115\\005\\S115_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S115",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S115\\005\\S115_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S115",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S115\\005\\S115_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S115",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S115\\005\\S115_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S115",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S115\\005\\S115_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S115",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S115\\005\\S115_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S115",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S115\\005\\S115_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S115_008": {
+    "happy_images": [
+      {
+        "subject_id": "S115",
+        "session_id": "008",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S115\\008\\S115_008_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S115",
+        "session_id": "008",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S115\\008\\S115_008_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S115",
+        "session_id": "008",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S115\\008\\S115_008_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S115",
+        "session_id": "008",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S115\\008\\S115_008_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S115",
+        "session_id": "008",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S115\\008\\S115_008_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S115",
+        "session_id": "008",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S115\\008\\S115_008_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S115",
+        "session_id": "008",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S115\\008\\S115_008_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S116_002": {
+    "happy_images": [
+      {
+        "subject_id": "S116",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S116\\002\\S116_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S116",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S116\\002\\S116_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S116",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S116\\002\\S116_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S116",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S116\\002\\S116_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S116",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S116\\002\\S116_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S116",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S116\\002\\S116_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S116",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S116\\002\\S116_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S116_007": {
+    "happy_images": [
+      {
+        "subject_id": "S116",
+        "session_id": "007",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S116\\007\\S116_007_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S116",
+        "session_id": "007",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S116\\007\\S116_007_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S116",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S116\\007\\S116_007_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S116",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S116\\007\\S116_007_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S116",
+        "session_id": "007",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S116\\007\\S116_007_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S116",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S116\\007\\S116_007_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S116",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S116\\007\\S116_007_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S117_007": {
+    "happy_images": [
+      {
+        "subject_id": "S117",
+        "session_id": "007",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S117\\007\\S117_007_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S117",
+        "session_id": "007",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S117\\007\\S117_007_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S117",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S117\\007\\S117_007_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S117",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S117\\007\\S117_007_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S117",
+        "session_id": "007",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S117\\007\\S117_007_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S117",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S117\\007\\S117_007_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S117",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S117\\007\\S117_007_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S118_002": {
+    "happy_images": [
+      {
+        "subject_id": "S118",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S118\\002\\S118_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S118",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S118\\002\\S118_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S118",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S118\\002\\S118_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S118",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S118\\002\\S118_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S118",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S118\\002\\S118_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S118",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S118\\002\\S118_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S118",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S118\\002\\S118_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S119_005": {
+    "happy_images": [
+      {
+        "subject_id": "S119",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S119\\005\\S119_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S119",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S119\\005\\S119_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S119",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S119\\005\\S119_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S119",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S119\\005\\S119_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S119",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S119\\005\\S119_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S119",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S119\\005\\S119_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S119",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S119\\005\\S119_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S121_001": {
+    "happy_images": [
+      {
+        "subject_id": "S121",
+        "session_id": "001",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S121\\001\\S121_001_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S121",
+        "session_id": "001",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S121\\001\\S121_001_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S121",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S121\\001\\S121_001_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S121",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S121\\001\\S121_001_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S121",
+        "session_id": "001",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S121\\001\\S121_001_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S121",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S121\\001\\S121_001_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S121",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S121\\001\\S121_001_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S124_004": {
+    "happy_images": [
+      {
+        "subject_id": "S124",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S124\\004\\S124_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S124",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S124\\004\\S124_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S124",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S124\\004\\S124_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S124",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S124\\004\\S124_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S124",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S124\\004\\S124_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S124",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S124\\004\\S124_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S124",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S124\\004\\S124_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S124_007": {
+    "happy_images": [
+      {
+        "subject_id": "S124",
+        "session_id": "007",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S124\\007\\S124_007_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S124",
+        "session_id": "007",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S124\\007\\S124_007_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S124",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S124\\007\\S124_007_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S124",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S124\\007\\S124_007_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S124",
+        "session_id": "007",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S124\\007\\S124_007_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S124",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S124\\007\\S124_007_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S124",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S124\\007\\S124_007_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S125_002": {
+    "happy_images": [
+      {
+        "subject_id": "S125",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S125\\002\\S125_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S125",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S125\\002\\S125_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S125",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S125\\002\\S125_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S125",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S125\\002\\S125_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S125",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S125\\002\\S125_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S125",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S125\\002\\S125_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S125",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S125\\002\\S125_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S125_005": {
+    "happy_images": [
+      {
+        "subject_id": "S125",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S125\\005\\S125_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S125",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S125\\005\\S125_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S125",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S125\\005\\S125_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S125",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S125\\005\\S125_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S125",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S125\\005\\S125_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S125",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S125\\005\\S125_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S125",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S125\\005\\S125_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S127_002": {
+    "happy_images": [
+      {
+        "subject_id": "S127",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S127\\002\\S127_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S127",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S127\\002\\S127_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S127",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S127\\002\\S127_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S127",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S127\\002\\S127_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S127",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S127\\002\\S127_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S127",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S127\\002\\S127_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S127",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S127\\002\\S127_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S127_004": {
+    "happy_images": [
+      {
+        "subject_id": "S127",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S127\\004\\S127_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S127",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S127\\004\\S127_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S127",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S127\\004\\S127_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S127",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S127\\004\\S127_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S127",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S127\\004\\S127_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S127",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S127\\004\\S127_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S127",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S127\\004\\S127_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S128_001": {
+    "happy_images": [
+      {
+        "subject_id": "S128",
+        "session_id": "001",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S128\\001\\S128_001_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S128",
+        "session_id": "001",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S128\\001\\S128_001_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S128",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S128\\001\\S128_001_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S128",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S128\\001\\S128_001_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S128",
+        "session_id": "001",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S128\\001\\S128_001_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S128",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S128\\001\\S128_001_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S128",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S128\\001\\S128_001_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S128_011": {
+    "happy_images": [
+      {
+        "subject_id": "S128",
+        "session_id": "011",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S128\\011\\S128_011_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S128",
+        "session_id": "011",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S128\\011\\S128_011_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S128",
+        "session_id": "011",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S128\\011\\S128_011_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S128",
+        "session_id": "011",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S128\\011\\S128_011_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S128",
+        "session_id": "011",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S128\\011\\S128_011_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S128",
+        "session_id": "011",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S128\\011\\S128_011_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S128",
+        "session_id": "011",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S128\\011\\S128_011_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S129_003": {
+    "happy_images": [
+      {
+        "subject_id": "S129",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S129\\003\\S129_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S129",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S129\\003\\S129_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S129",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S129\\003\\S129_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S129",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S129\\003\\S129_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S129",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S129\\003\\S129_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S129",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S129\\003\\S129_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S129",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S129\\003\\S129_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S129_012": {
+    "happy_images": [
+      {
+        "subject_id": "S129",
+        "session_id": "012",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S129\\012\\S129_012_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S129",
+        "session_id": "012",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S129\\012\\S129_012_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S129",
+        "session_id": "012",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S129\\012\\S129_012_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S129",
+        "session_id": "012",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S129\\012\\S129_012_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S129",
+        "session_id": "012",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S129\\012\\S129_012_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S129",
+        "session_id": "012",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S129\\012\\S129_012_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S129",
+        "session_id": "012",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S129\\012\\S129_012_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S130_003": {
+    "happy_images": [
+      {
+        "subject_id": "S130",
+        "session_id": "003",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S130\\003\\S130_003_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S130",
+        "session_id": "003",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S130\\003\\S130_003_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S130",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S130\\003\\S130_003_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S130",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S130\\003\\S130_003_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S130",
+        "session_id": "003",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S130\\003\\S130_003_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S130",
+        "session_id": "003",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S130\\003\\S130_003_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S130",
+        "session_id": "003",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S130\\003\\S130_003_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S130_013": {
+    "happy_images": [
+      {
+        "subject_id": "S130",
+        "session_id": "013",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S130\\013\\S130_013_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S130",
+        "session_id": "013",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S130\\013\\S130_013_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S130",
+        "session_id": "013",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S130\\013\\S130_013_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S130",
+        "session_id": "013",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S130\\013\\S130_013_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S130",
+        "session_id": "013",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S130\\013\\S130_013_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S130",
+        "session_id": "013",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S130\\013\\S130_013_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S130",
+        "session_id": "013",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S130\\013\\S130_013_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S131_006": {
+    "happy_images": [
+      {
+        "subject_id": "S131",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S131\\006\\S131_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S131",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S131\\006\\S131_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S131",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S131\\006\\S131_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S131",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S131\\006\\S131_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S131",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S131\\006\\S131_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S131",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S131\\006\\S131_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S131",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S131\\006\\S131_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S131_007": {
+    "happy_images": [
+      {
+        "subject_id": "S131",
+        "session_id": "007",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S131\\007\\S131_007_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S131",
+        "session_id": "007",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S131\\007\\S131_007_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S131",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S131\\007\\S131_007_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S131",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S131\\007\\S131_007_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S131",
+        "session_id": "007",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S131\\007\\S131_007_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S131",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S131\\007\\S131_007_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S131",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S131\\007\\S131_007_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S132_006": {
+    "happy_images": [
+      {
+        "subject_id": "S132",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S132\\006\\S132_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S132",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S132\\006\\S132_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S132",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S132\\006\\S132_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S132",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S132\\006\\S132_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S132",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S132\\006\\S132_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S132",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S132\\006\\S132_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S132",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S132\\006\\S132_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S132_007": {
+    "happy_images": [
+      {
+        "subject_id": "S132",
+        "session_id": "007",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S132\\007\\S132_007_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S132",
+        "session_id": "007",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S132\\007\\S132_007_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S132",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S132\\007\\S132_007_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S132",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S132\\007\\S132_007_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S132",
+        "session_id": "007",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S132\\007\\S132_007_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S132",
+        "session_id": "007",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S132\\007\\S132_007_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S132",
+        "session_id": "007",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S132\\007\\S132_007_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S133_001": {
+    "happy_images": [
+      {
+        "subject_id": "S133",
+        "session_id": "001",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S133\\001\\S133_001_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S133",
+        "session_id": "001",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S133\\001\\S133_001_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S133",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S133\\001\\S133_001_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S133",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S133\\001\\S133_001_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S133",
+        "session_id": "001",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S133\\001\\S133_001_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S133",
+        "session_id": "001",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S133\\001\\S133_001_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S133",
+        "session_id": "001",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S133\\001\\S133_001_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S133_010": {
+    "happy_images": [
+      {
+        "subject_id": "S133",
+        "session_id": "010",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S133\\010\\S133_010_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S133",
+        "session_id": "010",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S133\\010\\S133_010_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S133",
+        "session_id": "010",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S133\\010\\S133_010_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S133",
+        "session_id": "010",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S133\\010\\S133_010_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S133",
+        "session_id": "010",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S133\\010\\S133_010_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S133",
+        "session_id": "010",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S133\\010\\S133_010_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S133",
+        "session_id": "010",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S133\\010\\S133_010_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S134_004": {
+    "happy_images": [
+      {
+        "subject_id": "S134",
+        "session_id": "004",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S134\\004\\S134_004_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S134",
+        "session_id": "004",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S134\\004\\S134_004_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S134",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S134\\004\\S134_004_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S134",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S134\\004\\S134_004_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S134",
+        "session_id": "004",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S134\\004\\S134_004_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S134",
+        "session_id": "004",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S134\\004\\S134_004_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S134",
+        "session_id": "004",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S134\\004\\S134_004_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S135_002": {
+    "happy_images": [
+      {
+        "subject_id": "S135",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S135\\002\\S135_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S135",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S135\\002\\S135_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S135",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S135\\002\\S135_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S135",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S135\\002\\S135_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S135",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S135\\002\\S135_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S135",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S135\\002\\S135_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S135",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S135\\002\\S135_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S135_012": {
+    "happy_images": [
+      {
+        "subject_id": "S135",
+        "session_id": "012",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S135\\012\\S135_012_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S135",
+        "session_id": "012",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S135\\012\\S135_012_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S135",
+        "session_id": "012",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S135\\012\\S135_012_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S135",
+        "session_id": "012",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S135\\012\\S135_012_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S135",
+        "session_id": "012",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S135\\012\\S135_012_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S135",
+        "session_id": "012",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S135\\012\\S135_012_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S135",
+        "session_id": "012",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S135\\012\\S135_012_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S136_006": {
+    "happy_images": [
+      {
+        "subject_id": "S136",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S136\\006\\S136_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S136",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S136\\006\\S136_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S136",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S136\\006\\S136_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S136",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S136\\006\\S136_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S136",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S136\\006\\S136_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S136",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S136\\006\\S136_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S136",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S136\\006\\S136_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S137_002": {
+    "happy_images": [
+      {
+        "subject_id": "S137",
+        "session_id": "002",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S137\\002\\S137_002_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S137",
+        "session_id": "002",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S137\\002\\S137_002_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S137",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S137\\002\\S137_002_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S137",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S137\\002\\S137_002_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S137",
+        "session_id": "002",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S137\\002\\S137_002_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S137",
+        "session_id": "002",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S137\\002\\S137_002_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S137",
+        "session_id": "002",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S137\\002\\S137_002_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S137_011": {
+    "happy_images": [
+      {
+        "subject_id": "S137",
+        "session_id": "011",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S137\\011\\S137_011_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S137",
+        "session_id": "011",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S137\\011\\S137_011_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S137",
+        "session_id": "011",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S137\\011\\S137_011_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S137",
+        "session_id": "011",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S137\\011\\S137_011_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S137",
+        "session_id": "011",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S137\\011\\S137_011_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S137",
+        "session_id": "011",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S137\\011\\S137_011_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S137",
+        "session_id": "011",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S137\\011\\S137_011_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S138_005": {
+    "happy_images": [
+      {
+        "subject_id": "S138",
+        "session_id": "005",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S138\\005\\S138_005_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S138",
+        "session_id": "005",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S138\\005\\S138_005_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S138",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S138\\005\\S138_005_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S138",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S138\\005\\S138_005_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S138",
+        "session_id": "005",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S138\\005\\S138_005_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S138",
+        "session_id": "005",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S138\\005\\S138_005_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S138",
+        "session_id": "005",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S138\\005\\S138_005_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  },
+  "S138_006": {
+    "happy_images": [
+      {
+        "subject_id": "S138",
+        "session_id": "006",
+        "image_id": "00000005",
+        "image_path": "cohn-kanade-images\\S138\\006\\S138_006_00000005.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S138",
+        "session_id": "006",
+        "image_id": "00000004",
+        "image_path": "cohn-kanade-images\\S138\\006\\S138_006_00000004.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S138",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S138\\006\\S138_006_00000003.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S138",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S138\\006\\S138_006_00000002.png",
+        "labelled_emotion": "happiness"
+      }
+    ],
+    "neutral_images": [
+      {
+        "subject_id": "S138",
+        "session_id": "006",
+        "image_id": "00000001",
+        "image_path": "cohn-kanade-images\\S138\\006\\S138_006_00000001.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S138",
+        "session_id": "006",
+        "image_id": "00000002",
+        "image_path": "cohn-kanade-images\\S138\\006\\S138_006_00000002.png",
+        "labelled_emotion": "happiness"
+      },
+      {
+        "subject_id": "S138",
+        "session_id": "006",
+        "image_id": "00000003",
+        "image_path": "cohn-kanade-images\\S138\\006\\S138_006_00000003.png",
+        "labelled_emotion": "happiness"
+      }
+    ]
+  }
+}
