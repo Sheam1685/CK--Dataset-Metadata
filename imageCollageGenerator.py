@@ -14,9 +14,10 @@ def read_landmarks(file_path):
     return landmarks
 
 def plot_landmarks_on_image(image, landmarks, color='red'):
+    size = 2
     draw = ImageDraw.Draw(image)
     for landmark in landmarks:
-        draw.ellipse([landmark[0] - 2, landmark[1] - 2, landmark[0] + 2, landmark[1] + 2], fill=color)
+        draw.ellipse([landmark[0] - size, landmark[1] - size, landmark[0] + size, landmark[1] + size], fill=color)
 
 
 
@@ -27,7 +28,7 @@ def generate_collage(emotion):
     # sub_dirs = os.listdir(emotion_dir)
     # sub_dirs = random.sample(sub_dirs, min(5, len(sub_dirs)))  # Randomly select 5 subdirectories or less
     # this line is specifically for surprise emotion. Detected by us to detect feature of surprise
-    sub_dirs = ['S010', 'S042', 'S026', 'S035', 'S037']
+    sub_dirs = ['S010', 'S042', 'S026', 'S136', 'S037']
     print(sub_dirs)
 
     landmark_dir = 'C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks'
@@ -78,4 +79,4 @@ def generate_collage(emotion):
     collage.save(emotion+'Collage.png')
 
 # Replace 'disgust' with the desired emotion
-generate_collage('surprise')
+generate_collage('anger')
