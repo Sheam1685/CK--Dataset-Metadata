@@ -25,10 +25,10 @@ def generate_collage(emotion):
     emotion_dir = os.path.join('C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet', emotion)
     
     # this line will take random 5 subjects
-    # sub_dirs = os.listdir(emotion_dir)
-    # sub_dirs = random.sample(sub_dirs, min(5, len(sub_dirs)))  # Randomly select 5 subdirectories or less
+    sub_dirs = os.listdir(emotion_dir)
+    sub_dirs = random.sample(sub_dirs, min(5, len(sub_dirs)))  # Randomly select 5 subdirectories or less
     # this line is specifically for surprise emotion. Detected by us to detect feature of surprise
-    sub_dirs = ['S010', 'S042', 'S026', 'S136', 'S037']
+    # sub_dirs = ['S010', 'S042', 'S026', 'S136', 'S037']
     print(sub_dirs)
 
     landmark_dir = 'C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks'
@@ -76,7 +76,7 @@ def generate_collage(emotion):
 
     collage.show()  # Display the generated collage
     # save the image as emotionCollage.png
-    collage.save(emotion+'Collage.png')
+    # collage.save(emotion+'Collage.png')
 
 # Replace 'disgust' with the desired emotion
-generate_collage('anger')
+generate_collage('happiness')
