@@ -1,0 +1,12 @@
+Distance between left eye-brow right point and nose top point L(22, 28)
+Distance between right eye-brow left point and nose top point L(23, 28)
+Distance between left eye-brow right point and nose bottom point L(22, 34)
+Distance between right eye-brow left point and nose bottom point L(23, 34)
+Distance between lower lip and chin L(58, 9)
+Height of lip L(52, 58)
+
+
+Angle at left eye-brow A(18, 20, 22)
+Angle at right eye-brow A(23, 25, 27)
+Angle at lip left point A(50, 49, 60)
+Angle at lip right point A(54, 55, 56)
