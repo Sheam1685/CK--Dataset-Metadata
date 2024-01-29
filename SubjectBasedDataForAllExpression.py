@@ -5,7 +5,7 @@ import random
 
 # Path to the main folder containing subject IDs
 main_folder_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\cohn-kanade-images"
-dest_folder_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\SubjectBasedData"
+dest_folder_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\SubjectBasedDataCopy"
 
 json_file = "modified_image_metadata.json"
 with open(json_file) as json_file:
@@ -76,20 +76,20 @@ for root, dirs, files in os.walk(main_folder_path):
         
 
 # neutral folders will have a lot of images. So lets take at most 10 randomly.
-for root, dirs, files in os.walk(dest_folder_path):
-    emotion = os.path.basename(os.path.normpath(root))
-    if emotion != "neutral":
-      continue
-    subject_id = os.path.basename(os.path.normpath(os.path.dirname(root)))
-    # check if there are 0 images in neutral folder.
-    if len(files) <= 0:
-      print("Error: No images in neutral folder for subject", subject_id)
-      continue
+# for root, dirs, files in os.walk(dest_folder_path):
+#     emotion = os.path.basename(os.path.normpath(root))
+#     if emotion != "neutral":
+#       continue
+#     subject_id = os.path.basename(os.path.normpath(os.path.dirname(root)))
+#     # check if there are 0 images in neutral folder.
+#     if len(files) <= 0:
+#       print("Error: No images in neutral folder for subject", subject_id)
+#       continue
     
-    if len(files) > 10:
-      # take 10 random images and delete rest
-      files = random.sample(files, 10)
-      for file in os.listdir(root):
-        if file not in files:
-          os.remove(os.path.join(root, file))
+#     if len(files) > 10:
+#       # take 10 random images and delete rest
+#       files = random.sample(files, 10)
+#       for file in os.listdir(root):
+#         if file not in files:
+#           os.remove(os.path.join(root, file))
       
