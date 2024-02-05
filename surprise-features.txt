@@ -10,6 +10,11 @@ Distance between right eyebrow top point and right face top point L(17,25)
 Distance between left eyebrow top point and left eye bottom point L(20,42)
 Distance between right eyebrow top point and right eye bottom point L(25,47)
 
+Distance between mouth top point and mouth bottom point L(52,58)
+
+Distance between left eye brow top point and face bottom point L(9,20)
+Distance between right eye brow top point and face bottom point L(9,25)
+
 Angle at left eye's left point A(38,37,42)
 Angle at left eye's right point A(39,40,41)
 Angle at right eye's right point A(45,46,47)
@@ -23,13 +28,9 @@ Angle at right eye's top point A(43,44,46)
 Angle at left eyebrow top point A(18,20,22)
 Angle at left eyebrow top point A(23,25,27)
 
-Distance between mouth top point and mouth bottom point L(52,58)
-
 Angle at mouth left point A(51,49,59)
-Angle at mouth right point A(55,53,57)
-
-Distance between left eye brow top point and face bottom point L(9,20)
-Distance between right eye brow top point and face bottom point L(9,25)
+Angle at mouth right point A(55,53,57) <-------- Wrong
+Angle at mouth right point A(53,55,57)
 
 Angle at chin point A(1,9,17)
 
