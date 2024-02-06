@@ -95,10 +95,16 @@ anger_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Land
 image_paths["anger"] = anger_image_path
 landmarks["anger"] = anger_landmarks
 
+sad_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\sadness\\S120\\S120_001_00000014.png"
+sad_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S120\\001\\S120_001_00000014_landmarks.txt", supersample_factor)
+
+image_paths["sad"] = sad_image_path
+landmarks["sad"] = sad_landmarks
 
 
 
-emotion = "anger"
+
+emotion = "sad"
 
 # Take features as input and plot them on the image
 
