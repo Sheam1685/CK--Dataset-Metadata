@@ -74,17 +74,38 @@ def plot_features_on_image(image_path, landmarks, emotion,supersample_factor, li
     plot_line_features(image_line, emotion, landmarks, line_features, width, height)
     plot_angle_features(image_angle, emotion, landmarks, angle_features, width, height)
 
+
+
+
+
 supersample_factor = 10
+
+image_paths = {}
+landmarks = {}
+
 surprise_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\surprise\\S050\\S050_002_00000018.png"
 surprise_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S050\\002\\S050_002_00000018_landmarks.txt", supersample_factor)
 
+image_paths["surprise"] = surprise_image_path
+landmarks["surprise"] = surprise_landmarks
+
+anger_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\anger\\S050\\S050_004_00000021.png"
+anger_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S050\\004\\S050_004_00000021_landmarks.txt", supersample_factor)
+
+image_paths["anger"] = anger_image_path
+landmarks["anger"] = anger_landmarks
+
+
+
+
+emotion = "anger"
 
 # Take features as input and plot them on the image
 
 line_features = []
 angle_features = []
 
-with open("surprise.txt", 'r') as file:
+with open(f'{emotion}.txt', 'r') as file:
     for line in file:
         feature = line.strip().split()
         feature = [int(value) for value in feature[0][2:-1].split(',')]
@@ -93,4 +114,7 @@ with open("surprise.txt", 'r') as file:
         else:
             angle_features.append(feature)
 
-plot_features_on_image(surprise_image_path, surprise_landmarks, "surprise",supersample_factor, line_features, angle_features)
+image_path = image_paths[emotion]
+landmark = landmarks[emotion]
+
+plot_features_on_image(image_path, landmark, emotion, supersample_factor, line_features, angle_features)
