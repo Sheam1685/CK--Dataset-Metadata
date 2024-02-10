@@ -12,7 +12,13 @@ def read_landmarks(file_path, supersample_factor=10):
     return landmarks
   
 def angle_between_points(point1, point2):
-    return 360 - math.degrees(math.atan2(point2[1] - point1[1], point2[0] - point1[0]))
+    # print("Point1 ", point1)
+    # print("Point2 ", point2)
+    degree = math.degrees(math.atan2(point2[1] - point1[1], point2[0] - point1[0]))
+    if degree < 0:
+        degree = 360 + degree
+    # print("Degree ", degree)
+    return degree
 
 def plot_line_features(image, emotion, landmarks, line_features, width, height):
     size = 20
@@ -25,6 +31,7 @@ def plot_line_features(image, emotion, landmarks, line_features, width, height):
         feature = line_features[i]
         point1 = tuple(landmarks[feature[0]-1])
         point2 = tuple(landmarks[feature[1]-1])
+        # Draw double headed arrow
         draw.line([point1, point2], fill=(0, 255, 0, 255), width=int(size*0.8))
     
     image = image.resize((width, height), resample=Image.LANCZOS)
@@ -39,24 +46,29 @@ def plot_angle_features(image, emotion, landmarks, angle_features, width, height
         draw.ellipse([landmark[0] - size, landmark[1] - size, landmark[0] + size, landmark[1] + size], fill=(255, 0, 0, 255))
     
     for i in range(len(angle_features)):
+    # for i in range(5):
         feature = angle_features[i]
         point1 = tuple(landmarks[feature[0]-1])
         point2 = tuple(landmarks[feature[1]-1])
         point3 = tuple(landmarks[feature[2]-1])
+
         draw.line([point1, point2], fill=(0, 0, 255, 255), width=int(size*0.8))
         draw.line([point2, point3], fill=(0, 0, 255, 255), width=int(size*0.8))
         
         # Draw the arc
-        # center = (point2[0], point2[1])  # The center is the point2
-        # radius = 100
-        # start_angle = angle_between_points(point2, point1)
-        # end_angle = angle_between_points(point2, point3)
+        center = (point2[0], point2[1])  # The center is the point2
+        radius = 100
+        start_angle = angle_between_points(point2, point1)
+        end_angle = angle_between_points(point2, point3)
         
-        # if start_angle > end_angle:
-        #     start_angle, end_angle = end_angle, start_angle
+        if end_angle > start_angle and end_angle - start_angle > 180:
+            start_angle, end_angle = end_angle, start_angle
+        elif start_angle > end_angle and start_angle - end_angle < 180:
+            start_angle, end_angle = end_angle, start_angle
             
-        # draw.arc([center[0] - radius, center[1] - radius, center[0] + radius, center[1] + radius],
-        #           start_angle, end_angle, fill=(0, 0, 255, 255), width=10)
+        # print("draw arc from ", start_angle, "to ", end_angle)   
+        draw.arc([center[0] - radius, center[1] - radius, center[0] + radius, center[1] + radius],
+                  start_angle, end_angle, fill=(0, 255, 0, 255), width=int(size*0.8))
         
         # Resize back to original size with Lanczos resampling
         
@@ -71,7 +83,7 @@ def plot_features_on_image(image_path, landmarks, emotion,supersample_factor, li
     image_line = image.resize((width * supersample_factor, height * supersample_factor), resample=Image.LANCZOS)
     image_angle = image.resize((width * supersample_factor, height * supersample_factor), resample=Image.LANCZOS)
     
-    plot_line_features(image_line, emotion, landmarks, line_features, width, height)
+    # plot_line_features(image_line, emotion, landmarks, line_features, width, height)
     plot_angle_features(image_angle, emotion, landmarks, angle_features, width, height)
 
 
@@ -83,20 +95,20 @@ supersample_factor = 10
 image_paths = {}
 landmarks = {}
 
-surprise_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\surprise\\S106\\S106_001_00000018.png"
-surprise_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S106\\001\\S106_001_00000018_landmarks.txt", supersample_factor)
+surprise_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\surprise\\S074\\S074_002_00000016.png"
+surprise_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S074\\002\\S074_002_00000016_landmarks.txt", supersample_factor)
 
 image_paths["surprise"] = surprise_image_path
 landmarks["surprise"] = surprise_landmarks
 
-anger_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\anger\\S106\\S106_005_00000035.png"
-anger_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S106\\005\\S106_005_00000035_landmarks.txt", supersample_factor)
+anger_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\anger\\S113\\S113_008_00000023.png"
+anger_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S113\\008\\S113_008_00000023_landmarks.txt", supersample_factor)
 
 image_paths["anger"] = anger_image_path
 landmarks["anger"] = anger_landmarks
 
-sad_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\sadness\\S106\\S106_002_00000016.png"
-sad_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S106\\002\\S106_002_00000016_landmarks.txt", supersample_factor)
+sad_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\sadness\\S113\\S113_005_00000008.png"
+sad_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S113\\005\\S113_005_00000008_landmarks.txt", supersample_factor)
 
 image_paths["sad"] = sad_image_path
 landmarks["sad"] = sad_landmarks
@@ -104,7 +116,7 @@ landmarks["sad"] = sad_landmarks
 
 
 
-emotion = "sad"
+emotion = "surprise"
 
 # Take features as input and plot them on the image
 
