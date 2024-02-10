@@ -57,7 +57,7 @@ def plot_angle_features(image, emotion, landmarks, angle_features, width, height
         
         # Draw the arc
         center = (point2[0], point2[1])  # The center is the point2
-        radius = 80
+        radius = 100
         start_angle = angle_between_points(point2, point1)
         end_angle = angle_between_points(point2, point3)
         
@@ -95,8 +95,8 @@ supersample_factor = 10
 image_paths = {}
 landmarks = {}
 
-surprise_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\surprise\\S074\\S074_002_00000016.png"
-surprise_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S074\\002\\S074_002_00000016_landmarks.txt", supersample_factor)
+surprise_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\surprise\\S113\\S113_001_00000012.png"
+surprise_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S113\\001\\S113_001_00000012_landmarks.txt", supersample_factor)
 
 image_paths["surprise"] = surprise_image_path
 landmarks["surprise"] = surprise_landmarks
@@ -116,7 +116,7 @@ landmarks["sad"] = sad_landmarks
 
 
 
-emotion = "anger"
+emotion = "sad"
 
 # Take features as input and plot them on the image
 
