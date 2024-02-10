@@ -83,20 +83,20 @@ supersample_factor = 10
 image_paths = {}
 landmarks = {}
 
-surprise_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\surprise\\S050\\S050_002_00000018.png"
-surprise_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S050\\002\\S050_002_00000018_landmarks.txt", supersample_factor)
+surprise_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\surprise\\S106\\S106_001_00000018.png"
+surprise_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S106\\001\\S106_001_00000018_landmarks.txt", supersample_factor)
 
 image_paths["surprise"] = surprise_image_path
 landmarks["surprise"] = surprise_landmarks
 
-anger_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\anger\\S050\\S050_004_00000021.png"
-anger_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S050\\004\\S050_004_00000021_landmarks.txt", supersample_factor)
+anger_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\anger\\S106\\S106_005_00000035.png"
+anger_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S106\\005\\S106_005_00000035_landmarks.txt", supersample_factor)
 
 image_paths["anger"] = anger_image_path
 landmarks["anger"] = anger_landmarks
 
-sad_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\sadness\\S120\\S120_001_00000014.png"
-sad_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S120\\001\\S120_001_00000014_landmarks.txt", supersample_factor)
+sad_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\sadness\\S106\\S106_002_00000016.png"
+sad_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S106\\002\\S106_002_00000016_landmarks.txt", supersample_factor)
 
 image_paths["sad"] = sad_image_path
 landmarks["sad"] = sad_landmarks
