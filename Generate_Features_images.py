@@ -57,7 +57,7 @@ def plot_angle_features(image, emotion, landmarks, angle_features, width, height
         
         # Draw the arc
         center = (point2[0], point2[1])  # The center is the point2
-        radius = 100
+        radius = 80
         start_angle = angle_between_points(point2, point1)
         end_angle = angle_between_points(point2, point3)
         
@@ -116,7 +116,7 @@ landmarks["sad"] = sad_landmarks
 
 
 
-emotion = "surprise"
+emotion = "anger"
 
 # Take features as input and plot them on the image
 
