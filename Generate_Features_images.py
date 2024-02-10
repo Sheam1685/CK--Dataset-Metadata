@@ -83,7 +83,7 @@ def plot_features_on_image(image_path, landmarks, emotion,supersample_factor, li
     image_line = image.resize((width * supersample_factor, height * supersample_factor), resample=Image.LANCZOS)
     image_angle = image.resize((width * supersample_factor, height * supersample_factor), resample=Image.LANCZOS)
     
-    # plot_line_features(image_line, emotion, landmarks, line_features, width, height)
+    plot_line_features(image_line, emotion, landmarks, line_features, width, height)
     plot_angle_features(image_angle, emotion, landmarks, angle_features, width, height)
 
 
