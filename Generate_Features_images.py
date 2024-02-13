@@ -78,6 +78,8 @@ def plot_angle_features(image, emotion, landmarks, angle_features, width, height
 
 def plot_features_on_image(image_path, landmarks, emotion,supersample_factor, line_features, angle_features):
     image = Image.open(image_path)
+    # Conver to grayscale and then to RGBA
+    image = image.convert("L")
     image = image.convert("RGBA")
     width, height = image.size
     image_line = image.resize((width * supersample_factor, height * supersample_factor), resample=Image.LANCZOS)
@@ -94,6 +96,13 @@ supersample_factor = 10
 
 image_paths = {}
 landmarks = {}
+
+
+happiness_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\happiness\\S113\\S113_004_00000023.png"
+happiness_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S113\\004\\S113_004_00000023_landmarks.txt", supersample_factor)
+
+image_paths["happiness"] = happiness_image_path
+landmarks["happiness"] = happiness_landmarks
 
 surprise_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\surprise\\S113\\S113_001_00000012.png"
 surprise_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S113\\001\\S113_001_00000012_landmarks.txt", supersample_factor)
@@ -116,7 +125,7 @@ landmarks["sad"] = sad_landmarks
 
 
 
-emotion = "surprise"
+emotion = "happiness"
 
 # Take features as input and plot them on the image
 
