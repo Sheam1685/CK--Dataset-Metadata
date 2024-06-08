@@ -20,12 +20,11 @@ def read_landmarks(file_path, supersample_factor=10):
     return landmarks
   
 def angle_between_points(point1, point2):
-    # print("Point1 ", point1)
-    # print("Point2 ", point2)
+
     degree = math.degrees(math.atan2(point2[1] - point1[1], point2[0] - point1[0]))
     if degree < 0:
         degree = 360 + degree
-    # print("Degree ", degree)
+
     return degree
 
 def plot_landmarks(image, emotion, landmarks, width, height):
@@ -68,7 +67,7 @@ def plot_angle_features(image, emotion, landmarks, angle_features, width, height
         draw.ellipse([landmark[0] - size, landmark[1] - size, landmark[0] + size, landmark[1] + size], fill=(255, 0, 0, 255))
     
     for i in range(len(angle_features)):
-    # for i in range(5):
+
         feature = angle_features[i]
         point1 = tuple(landmarks[feature[0]-1])
         point2 = tuple(landmarks[feature[1]-1])
@@ -88,12 +87,12 @@ def plot_angle_features(image, emotion, landmarks, angle_features, width, height
         elif start_angle > end_angle and start_angle - end_angle < 180:
             start_angle, end_angle = end_angle, start_angle
             
-        # print("draw arc from ", start_angle, "to ", end_angle)   
+ 
         draw.arc([center[0] - radius, center[1] - radius, center[0] + radius, center[1] + radius],
                   start_angle, end_angle, fill=(0, 255, 0, 255), width=int(size*0.8))
         
-        # Resize back to original size with Lanczos resampling
-        
+    
+    # Resize back to original size with Lanczos resampling  
     image = image.resize((width, height), resample=Image.LANCZOS)
     image.show()
     if mode == "emotional":
@@ -170,7 +169,7 @@ landmarks["sad"] = sad_landmarks
 line_features = []
 angle_features = []
 
-with open(f'{emotion}.txt', 'r') as file:
+with open(f'Features/{emotion}.txt', 'r') as file:
     for line in file:
         feature = line.strip().split()
         feature = [int(value) for value in feature[0][2:-1].split(',')]
@@ -178,6 +177,7 @@ with open(f'{emotion}.txt', 'r') as file:
             line_features.append(feature)
         else:
             angle_features.append(feature)
+    print("Feature extracted")
 
 image_path = image_paths[emotion]
 landmark = landmarks[emotion]
