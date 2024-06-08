@@ -6,7 +6,7 @@ import math
 # emotion = "happiness"
 # emotion = "surprise"
 # emotion = "anger"
-emotion = "sad"
+emotion = "sadness"
 mode = "neutral"
 # mode = "emotional"
 def read_landmarks(file_path, supersample_factor=10):
@@ -161,8 +161,8 @@ elif mode == "neutral":
     sad_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\sadness\\S113\\S113_005_00000001.png"
     sad_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S113\\005\\S113_005_00000001_landmarks.txt", supersample_factor)
 
-image_paths["sad"] = sad_image_path
-landmarks["sad"] = sad_landmarks
+image_paths["sadness"] = sad_image_path
+landmarks["sadness"] = sad_landmarks
 
 # Take features as input and plot them on the image
 
