@@ -40,7 +40,7 @@ def generate_collage(emotion):
         sub_dir_path = os.path.join(emotion_dir, sub_dir)
         images = os.listdir(sub_dir_path)
         images.sort()  # Ensure images are in order
-        images = images[-5:]  # Take the last 5 images
+        images = images[-10:]  # Take the last 5 images
 
         subject_images_per_dir = []
         current_height = 0;
@@ -74,9 +74,8 @@ def generate_collage(emotion):
         y_offset = 0  # Reset y_offset for next column
         x_offset += max_width  # Move to next column
 
-    collage.show()  # Display the generated collage
-    # save the image as emotionCollage.png
-    # collage.save(emotion+'Collage.png')
+    collage.show()  
+    collage.save(emotion+'Collage.png')
 
 # Replace 'disgust' with the desired emotion
-generate_collage('happiness')
+generate_collage('fear')

@@ -1,0 +1,15 @@
+L(38,42) <- Height of left eye
+L(45,47) <- Height of right eye
+L(20,38) <- Distance between left eye and left eyebrow
+L(25,45) <- Distance between right eye and right eyebrow
+L(20,34) <- Distance between left eyebrow and nose bottom
+L(25,34) <- Distance between right eyebrow and nose bottom
+L(49,55) <- Distance between left mouth corner and right mouth corner
+L(52,58) <- Height of mouth
+A(18,20,22) <- Angle at left eyebrow
+A(23,25,27) <- Angle at right eyebrow
+A(49,34,55) <- Angle by nose bottom, mouth left corner and mouth right corner
+A(51,49,59) <- Angle at left mouth corner
+A(53,55,57) <- Angle at right mouth corner
+A(38,37,42) <- Angle at left eye left corner
+A(45,46,47) <- Angle at right eye right corner
