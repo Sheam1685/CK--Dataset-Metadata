@@ -4,11 +4,11 @@ import math
 
 # Choose emotion and mode from here. 
 # emotion = "happiness"
-# emotion = "surprise"
+emotion = "surprise"
 # emotion = "anger"
-emotion = "sadness"
-mode = "neutral"
-# mode = "emotional"
+# emotion = "sadness"
+# mode = "neutral"
+mode = "emotional"
 def read_landmarks(file_path, supersample_factor=10):
     landmarks = []
     with open(file_path, 'r') as file:
@@ -112,7 +112,7 @@ def plot_features_on_image(image_path, landmarks, emotion,supersample_factor, li
     
     # plot_landmarks(im, emotion, landmarks, width, height)
     plot_line_features(image_line, emotion, landmarks, line_features, width, height)
-    plot_angle_features(image_angle, emotion, landmarks, angle_features, width, height)
+    # plot_angle_features(image_angle, emotion, landmarks, angle_features, width, height)
 
 
 
