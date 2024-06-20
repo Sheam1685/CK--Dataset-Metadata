@@ -4,9 +4,9 @@ import math
 
 # Choose emotion and mode from here. 
 # emotion = "happiness"
-emotion = "surprise"
+# emotion = "surprise"
 # emotion = "anger"
-# emotion = "sadness"
+emotion = "sadness"
 # mode = "neutral"
 mode = "emotional"
 def read_landmarks(file_path, supersample_factor=10):
@@ -154,12 +154,12 @@ elif mode == "neutral":
 image_paths["anger"] = anger_image_path
 landmarks["anger"] = anger_landmarks
 
-if mode == "emotional":
-    sad_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\sadness\\S113\\S113_005_00000008.png"
-    sad_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S113\\005\\S113_005_00000008_landmarks.txt", supersample_factor)
-elif mode == "neutral":
-    sad_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\sadness\\S113\\S113_005_00000001.png"
-    sad_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S113\\005\\S113_005_00000001_landmarks.txt", supersample_factor)
+if mode == "neutral":
+    sad_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\sadness\\S081\\S081_002_00000001.png"
+    sad_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S081\\002\\S081_002_00000001_landmarks.txt", supersample_factor)
+elif mode == "emotional":
+    sad_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\sadness\\S081\\S081_002_00000024.png"
+    sad_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S081\\002\\S081_002_00000024_landmarks.txt", supersample_factor)
 
 image_paths["sadness"] = sad_image_path
 landmarks["sadness"] = sad_landmarks
