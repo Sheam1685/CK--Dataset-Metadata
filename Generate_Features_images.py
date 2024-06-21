@@ -7,7 +7,8 @@ import math
 # emotion = "surprise"
 # emotion = "anger"
 # emotion = "sadness"
-emotion = "fear"
+# emotion = "fear"
+emotion = "disgust"
 # mode = "neutral"
 mode = "emotional"
 def read_landmarks(file_path, supersample_factor=10):
@@ -174,6 +175,23 @@ elif mode == "neutral":
 
 image_paths["fear"] = fear_image_path
 landmarks["fear"] = fear_landmarks
+
+if mode == "emotional":
+    disgust_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\disgust\\S037\\S037_004_00000066.png"
+    disgust_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S037\\004\\S037_004_00000066_landmarks.txt", supersample_factor)
+elif mode == "neutral":
+    disgust_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\disgust\\S037\\S037_004_00000001.png"
+    disgust_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S037\\004\\S037_004_00000001_landmarks.txt", supersample_factor)
+    
+# if mode == "emotional":
+#     disgust_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\disgust\\S010\\S010_005_00000016.png"
+#     disgust_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S010\\005\\S010_005_00000016_landmarks.txt", supersample_factor)
+# elif mode == "neutral":
+#     disgust_image_path = "C:\\Users\\samia\\Documents\\Thesis\\CK+\\EmotionBasedDataSet\\disgust\\S010\\S010_005_00000001.png"
+#     disgust_landmarks = read_landmarks("C:\\Users\\samia\\Documents\\Thesis\\CK+\\Landmarks\\S010\\005\\S010_005_00000001_landmarks.txt", supersample_factor)
+
+image_paths["disgust"] = disgust_image_path
+landmarks["disgust"] = disgust_landmarks
 
 # Take features as input and plot them on the image
 

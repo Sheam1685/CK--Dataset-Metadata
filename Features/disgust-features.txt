@@ -1,14 +1,14 @@
-L(22,28)  <- Distance Between left eyebrow right corner and nose top
-L(23,28)  <- Distance Between right eyebrow left corner and nose top
-L(22, 9)  <- Distance Between left eyebrow right corner and chin bottom
-L(23, 9)  <- Distance Between right eyebrow left corner and chin bottom
+L(22,28) <- Distance Between left eyebrow right corner and nose top
+L(23,28) <- Distance Between right eyebrow left corner and nose top
 L(38,42) <- Height of left eye
 L(45,47) <- Height of right eye
 L(22,34) <- Distance between left eye right corner and nose bottom
 L(23,34) <- Distance between right eye left corner and nose bottom
 L(49,55) <- Width of mouth
 L(52,58) <- Height of mouth
-L(58, 9)  <- Distance between mouth bottom and chin bottom
+L(58,9)  <- Distance between mouth bottom and chin bottom
+L(32,36) <- Width of nostrils
+L(28,34) <- Height of nose
 A(49,28,55) <- Angle by nose top, mouth left corner and mouth right corner
 A(49,34,55) <- Angle by nose bottom, mouth left corner and mouth right corner
 A(18,34,27) <- Angle by left eyebrow left corner, nose bottom and right eyebrow right corner
