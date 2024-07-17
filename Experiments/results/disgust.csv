@@ -1,9 +1,4 @@
 ,training_set,test_set,feature_set,feature_type,model_type,accuracy
-0,neutral,neutral,neutral,distance,LinearDiscriminantAnalysis,98.3888888888889
-1,neutral,neutral,neutral_disgust,distance,LinearDiscriminantAnalysis,99.55555555555556
-2,neutral,disgust,neutral,distance,LinearDiscriminantAnalysis,84.38888888888889
-3,neutral,disgust,neutral_disgust,distance,LinearDiscriminantAnalysis,94.22222222222224
-4,disgust,neutral,neutral,distance,LinearDiscriminantAnalysis,73.50000000000001
-5,disgust,neutral,neutral_disgust,distance,LinearDiscriminantAnalysis,87.88888888888889
-6,disgust,disgust,neutral,distance,LinearDiscriminantAnalysis,98.05555555555554
-7,disgust,disgust,neutral_disgust,distance,LinearDiscriminantAnalysis,99.61111111111111
+0,neutral_disgust,neutral_disgust,neutral,distance,XGBClassifier,86.25
+1,neutral_disgust,neutral_disgust,disgust,distance,XGBClassifier,85.5
+2,neutral_disgust,neutral_disgust,neutral_disgust,distance,XGBClassifier,91.25
